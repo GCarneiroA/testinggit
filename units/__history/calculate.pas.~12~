@@ -5,7 +5,7 @@ interface
 type
     TCalculate = class
     public
-      function calc(a, b: uint32): uint32;
+        function calc(a, b: uint32): uint32;
     end;
 
 implementation
@@ -14,7 +14,7 @@ implementation
 
 function TCalculate.calc(a, b: uint32): uint32;
 begin
-  Result := a + b;
+    Result := a + succ(b);
 end;
 
 end.

@@ -14,7 +14,7 @@ implementation
 
 function TCalculate.calc(a, b: uint32): uint32;
 begin
-    Result := a + succ(b);
+    Result := a + b;
 end;
 
 end.
