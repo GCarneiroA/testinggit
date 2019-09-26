@@ -2,7 +2,7 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2019/09/26 04:38:03.000.489,=C:\dev\Unit1.pas</Transaction>
-    <Transaction>2019/09/26 04:41:12.000.164,C:\dev\Unit1.pas=C:\dev\Learning\TestingProject\tests\calculate.test.pas</Transaction>
-    <Transaction>2019/09/26 04:41:18.000.718,C:\dev\Project1.dproj=C:\dev\Learning\TestingProject\tests\CalculateTestProject.dproj</Transaction>
+    <Transaction>2019/09/26 04:41:12.000.164,C:\dev\Learning\TestingProject\tests\calculate.test.pas=C:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 04:41:18.000.718,C:\dev\Learning\TestingProject\tests\CalculateTestProject.dproj=C:\dev\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
