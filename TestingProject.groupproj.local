@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/09/26 04:41:36.926,C:\dev\Learning\TestingProject.groupproj=C:\dev\ProjectGroup1.groupproj</Transaction>
-    <Transaction>2019/09/26 04:47:12.132,C:\dev\Learning\TestingProject\TestingProject.groupproj=C:\dev\Learning\TestingProject.groupproj</Transaction>
+	<Transactions>
+    <Transaction>2019/09/26 04:41:36.000.926,C:\dev\ProjectGroup1.groupproj=C:\dev\Learning\TestingProject.groupproj</Transaction>
+    <Transaction>2019/09/26 04:47:12.000.132,C:\dev\Learning\TestingProject.groupproj=C:\dev\Learning\TestingProject\TestingProject.groupproj</Transaction>
   </Transactions>
-  <Default.Personality>
-    <Projects ActiveProject="C:\dev\Learning\TestingProject\tests\CalculateTestProject.dproj"/>
-  </Default.Personality>
+	<Default.Personality>
+		<Projects ActiveProject="C:\dev\Learning\Testing_git\calcproject.dproj"/>
+	</Default.Personality>
 </BorlandProject>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/09/26 04:23:13.156,=C:\dev\Unit1.pas</Transaction>
-    <Transaction>2019/09/26 04:23:44.459,=C:\dev\Unit2.pas</Transaction>
-    <Transaction>2019/09/26 04:26:12.863,C:\dev\Learning\TestingProject\units\calculate.pas=C:\dev\Unit2.pas</Transaction>
-    <Transaction>2019/09/26 04:26:21.881,C:\dev\Learning\TestingProject\units\f_main.dfm=C:\dev\Unit1.dfm</Transaction>
-    <Transaction>2019/09/26 04:26:21.881,C:\dev\Learning\TestingProject\units\f_main.pas=C:\dev\Unit1.pas</Transaction>
-    <Transaction>2019/09/26 04:31:40.480,C:\dev\Learning\TestingProject\calcproject.dproj=C:\dev\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2019/09/26 04:23:13.000.156,=C:\dev\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 04:23:44.000.459,=C:\dev\Unit2.pas</Transaction>
+    <Transaction>2019/09/26 04:26:12.000.863,C:\dev\Unit2.pas=C:\dev\Learning\TestingProject\units\calculate.pas</Transaction>
+    <Transaction>2019/09/26 04:26:21.000.881,C:\dev\Unit1.dfm=C:\dev\Learning\TestingProject\units\f_main.dfm</Transaction>
+    <Transaction>2019/09/26 04:26:21.000.881,C:\dev\Unit1.pas=C:\dev\Learning\TestingProject\units\f_main.pas</Transaction>
+    <Transaction>2019/09/26 04:31:40.000.480,C:\dev\Project1.dproj=C:\dev\Learning\TestingProject\calcproject.dproj</Transaction>
   </Transactions>
 </BorlandProject>
